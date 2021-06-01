@@ -10,9 +10,12 @@ Clone the project in the terminal with the command:
 git clone https://github.com/reyrey-fb/Pokemon_Table_ReactHooks.git
 ```
 
-Then navigate to the project directory, and run:
+Then navigate to the project directory, and run yarn start:
 
-### `yarn start`
+```
+cd Pokemon_Table_ReactHooks
+yarn start
+```
 
 
 
