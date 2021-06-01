@@ -8,8 +8,7 @@ import TableBody from "./TableBody";
 const Table = ({ data = [], filterData = [] }) => {
   return (
     <>
-      <table className="table table-striped table-dark">
-        <caption>Pokemon List</caption>
+      <table aria-label="Pokemon List" className="table table-striped table-dark">
         <thead>
           <HeaderRow
             columns={columns}
