@@ -16,6 +16,11 @@ Then navigate to the project directory, and launch it in your code editor:
 cd Pokemon_Table_ReactHooks
 code .
 ```
+To view the project in your browser, from the project directory:
+```
+yarn install
+yarn start
+```
 
 
 
