@@ -24,7 +24,7 @@ const HeaderRow = ({ columns = [], data = [] }) => {
     <tr>
       {columns.map((col) => (
         <th key={col.key} id={col.key} scope="col">
-          <div className="" onClick={() => requestSort(col.key)}>
+          <div className="sortGroup" onClick={() => requestSort(col.key)}>
             {col.title}
             <span className="position-relative">
               {state.sortConfig === null ||
