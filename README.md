@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Clone the project in the terminal with the command: 
 
 ```
-https://github.com/reyrey-fb/Pokemon_Table_ReactHooks.git
+git clone https://github.com/reyrey-fb/Pokemon_Table_ReactHooks.git
 ```
 
 Then navigate to the project directory, and run:
